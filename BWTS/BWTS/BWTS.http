@@ -1,0 +1,6 @@
+@BWTS_HostAddress = http://localhost:5057
+
+GET {{BWTS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
